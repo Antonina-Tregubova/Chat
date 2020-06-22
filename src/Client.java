@@ -5,6 +5,8 @@ import java.io.InputStreamReader;
 import java.net.Socket;
 
 public class Client {
+
+    //debug
     protected Connection connection;
     private volatile boolean clientConnected = false;
 
